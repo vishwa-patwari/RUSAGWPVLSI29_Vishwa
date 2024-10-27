@@ -1,4 +1,4 @@
-sum_even = 0; % Initialize sum
+sum_even = 0; 
 
 for i = 2:2:100  % Start from 2, increment by 2 up to 100
     sum_even = sum_even + i;
